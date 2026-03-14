@@ -1,7 +1,7 @@
 NOEMA is a system research and engineering organization focused on building foundational infrastructure for __distributed computing, scientific knowledge systems & intelligent robotics__. The goal is to design __complete end-to-end products__ that push the oundaries of decentralized infrastructure, machine intelligence and autonomous perception.
 
 ## [Major Projects](https://github.com/noema29705/noema-docs.git)
-### Axiom
+### [Axiom](https://github.com/noema29705/noema-docs/tree/main/projects/axiom)
 Axiom (meaning logic) is a modular blockchain infrastructure for sovereign decentralized systems.
 The architecture seperate core blockchain logic from networking storage, and consensus layers to allow flexible deployments and experimentation with different system configurations.
 
