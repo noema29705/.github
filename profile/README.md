@@ -13,7 +13,7 @@ The architecture seperate core blockchain logic from networking storage, and con
 
 Axiom is desgined to act ad foundational infrastructure for deccentralized systems rather than a single-purpose blockchain.
 
-### MetaScholar
+### [MetaScholar](https://github.com/noema29705/noema-docs/tree/main/projects/metascholar)
 Meta-Scholar is an AI-native infrastructure designed to improve how scientific knowledge is discovered, summarized, and synthesized. The system collects research papers from multiiple scientific sources and builds a strucctured knowledge system that enable deeper research exploratiion.
 
 Core components include:
